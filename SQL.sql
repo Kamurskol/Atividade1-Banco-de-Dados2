@@ -16,7 +16,7 @@ VALUES('Bastardos Inglórios', 'bi1234','Quentin Tarantino'),
 ('Jaws','jws321', 'Steven Spielberg'),
 ('A Lista de Schindler', 'lst321', 'Steven Spielberg');
  
-insert into diretor (nome, codigo_diretor)
+INSERT INTO diretor (nome, codigo_diretor)
 VALUES('Steven Spielberg', 'st4321'),
 ('Quentin Tarantino', 'qt1234')
 
